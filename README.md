@@ -25,7 +25,7 @@
 
 ### Задание 4
 
-`Скриншот операции по получению через redis-cli ключей`
+`Скриншот операции по получению ключей через redis-cli `
 
 <img width="602" height="450" alt="Снимок экрана 2025-11-24 в 21 47 13" src="https://github.com/user-attachments/assets/f718a34e-b847-48d5-aacd-e28562c345dc" />
 
